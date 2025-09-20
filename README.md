@@ -6,10 +6,13 @@ Hi, I'm Victor! I analyze healthcare data to find clear, business-ready insights
 ## 🚀 Start Here
 - 🧪 **Diabetes_Analysis** — End‑to‑end ML pipeline (EDA → model → metrics → plots). *Clone-and-run instructions included.*  
   https://github.com/odinruiz52/Diabetes_Analysis
+  
 - 🩺 **Health_Claim_Prediction** — Flask app for predicting claim outcomes with fairness/ethics notes.  
   https://github.com/odinruiz52/Health_Claim_Prediction
+  
 - 💊 **Pharmacy-Sales-Analyzer** — Power BI dashboard (KPI trends, top N, region drilldowns).  
   https://github.com/odinruiz52/Pharmacy-Sales-Analyzer
+  
 - 📑 **Claims-Denial-Tracker** — Oracle SQL + Tableau (denial reasons & preventable root causes).  
   https://github.com/odinruiz52/Claims-Denial-Tracker
 
@@ -20,8 +23,3 @@ Hi, I'm Victor! I analyze healthcare data to find clear, business-ready insights
 - Clean, reproducible analysis (one‑command run)
 - Dashboards with a business storyline
 - Short, quantified insights and clear next steps
-
-## 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/vruiz52
-- GitHub: https://github.com/odinruiz52
-- Email: odinruiz52@yahoo.com
